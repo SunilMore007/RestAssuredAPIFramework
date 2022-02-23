@@ -1,0 +1,315 @@
+2022-02-22 12:35:28 INFO  EmployeesRestApiSunil:20 - ********* Started TC001_Get_All_Employees **********
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:96 -  ***********  Checking Content Encoding ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:99 - Content Type is ==>gzip
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:105 -  ***********  Checking Content Length ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:108 - Content Type is ==>588
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:77 -  ***********  Checking Content Type ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:80 - Content Type is ==>text/html; charset=UTF-8
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:119 -  ***********  Checking Cookies ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:54 -  ***********  Checking Response Time ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:57 - Status Time is ==>1486
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:33 -  ***********  Checking Respose Body ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:36 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:86 -  ***********  Checking Server Type ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:89 - Content Type is ==>nginx
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:44 -  ***********  Checking Status Code ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:47 - Status Code is ==>429
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:66 -  ***********  Checking Status Line ********** 
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:69 - Status Line is ==>HTTP/1.1 429 Too Many Requests
+2022-02-22 12:35:35 INFO  EmployeesRestApiSunil:23 - ********* Started TC002_Get_Single_Employee_Record **********
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:95 -  ***********  Checking Content Encoding ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:98 - Content Type is ==>gzip
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:104 -  ***********  Checking Content Length ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:107 - Content Type is ==>588
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:76 -  ***********  Checking Content Type ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:79 - Content Type is ==>text/html; charset=UTF-8
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:118 -  ***********  Checking Cookies ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:53 -  ***********  Checking Response Time ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:56 - Status Time is ==>1162
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:34 -  ***********  Checking Respose Body ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:37 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:85 -  ***********  Checking Server Type ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:88 - Content Type is ==>nginx
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:43 -  ***********  Checking Status Code ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:46 - Status Code is ==>429
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:65 -  ***********  Checking Status Line ********** 
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:68 - Status Line is ==>HTTP/1.1 429 Too Many Requests
+2022-02-22 12:35:41 INFO  EmployeesRestApiSunil:30 - ********* Started TC003_Post_Employee_Record **********
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:108 -  ***********  Checking Content Encoding ********** 
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:111 - Content Type is ==>gzip
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:89 -  ***********  Checking Content Type ********** 
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:92 - Content Type is ==>text/html; charset=UTF-8
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:54 -  ***********  Checking Respose Body ********** 
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:58 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:98 -  ***********  Checking Server Type ********** 
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:101 - Content Type is ==>nginx
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:67 -  ***********  Checking Status Code ********** 
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:70 - Status Code is ==>429
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:78 -  ***********  Checking Status Line ********** 
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:81 - Status Line is ==>HTTP/1.1 429 Too Many Requests
+2022-02-22 12:35:47 INFO  EmployeesRestApiSunil:33 - ********* Started TC004_Put_Employee_Record **********
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:111 -  ***********  Checking Content Encoding ********** 
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:114 - Content Type is ==>gzip
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:92 -  ***********  Checking Content Type ********** 
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:95 - Content Type is ==>text/html; charset=UTF-8
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:57 -  ***********  Checking Respose Body ********** 
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:61 - Response Body==><!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:101 -  ***********  Checking Server Type ********** 
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:104 - Content Type is ==>nginx
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:70 -  ***********  Checking Status Code ********** 
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:73 - Status Code is ==>429
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:81 -  ***********  Checking Status Line ********** 
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:84 - Status Line is ==>HTTP/1.1 429 Too Many Requests
+2022-02-22 12:35:53 INFO  EmployeesRestApiSunil:30 - ********* Started TC005_Delete_Employee_Record **********
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:108 -  ***********  Checking Content Encoding ********** 
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:111 - Content Type is ==>null
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:89 -  ***********  Checking Content Type ********** 
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:92 - Content Type is ==>application/json
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:56 -  ***********  Checking Respose Body ********** 
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:60 - Response Body==>{"status":"success","data":"null","message":"Successfully! Record has been deleted"}
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:98 -  ***********  Checking Server Type ********** 
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:101 - Content Type is ==>nginx
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:68 -  ***********  Checking Status Code ********** 
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:71 - Status Code is ==>200
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:78 -  ***********  Checking Status Line ********** 
+2022-02-22 12:36:16 INFO  EmployeesRestApiSunil:81 - Status Line is ==>HTTP/1.1 200 OK
